@@ -1,6 +1,6 @@
 ## Adrien Beton
 
-**Engineer, strategist, and builder.** I help organisations activate sustainability as the operating discipline of a performant and resilient business and build or operate the programmes, governance, and tools that make that real.
+**Builder, operator, engineer and explorer.** I help organisations activate sustainability as the operating discipline of a performant and resilient business and build or operate the programmes, governance, and tools that make that real.
 
 17 years at the intersection of **sustainability, transformation, and technology** across energy, transport, infrastructure, and 12+ other sectors. Imperial College (UK) × Polytechnique (FR). 50+ clients, 100+ projects.
 
