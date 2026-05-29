@@ -6,9 +6,12 @@
 
 > *Trained as an engineer. Curious by nature. Hands-on by habit. Restless about the state of the world.*
 
-### MakiLab — where experience meets the itch to *learn · build · ship*
+### MakiLab — where experience meets the drive to *learn · build · ship*
 
-A personal lab where domain expertise meets AI to build tools that actually work — from automated carbon dashboards to self-hosted AI agents. Not a late pivot to tech: the continuation of a maker reflex that runs through the whole career, from Excel LCA macros to autonomous apps on my own infrastructure.
+MakiLab is my personal lab. Built out of passion, fed by work.
+Not a late pivot to tech: the continuation of a maker reflex that runs through the whole career, from Excel LCA macros to autonomous apps on my own infrastructure.
+Built out of passion, fed by work. Nearly two decades of exploration, builds and projects that catalyse the day job. PHP sites (2007), Fab Lab cofounder (2012), Startup CTO (2015), AI (2022). Still going…
+
 
 | Project | One-liner | Domain |
 |---|---|---|
@@ -16,8 +19,6 @@ A personal lab where domain expertise meets AI to build tools that actually work
 | **PVision** | From hours in PVSyst to minutes on a map — solar pre-study + financial model. | Renewables · Photovoltaic · Project finance |
 | **TRACE** | Where responsible AI should start — 5-pillar diagnostic, 30 questions. | Responsible AI · Governance |
 | **Food Impact Chatbot** | Bilingual conversational LCA, RAG over Agribalyse. | Life Cycle Assessment · Food |
-
-More on each at **[adrienbeton.vercel.app](https://adrienbeton.vercel.app)**.
 
 ---
 
